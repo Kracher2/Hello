@@ -1,6 +1,6 @@
 # CS50 Hello Solution
 
-This repository contains my solution to **Hello** from Week 1 from the **CS50** course. I've made slight modifications to ensure it works in the real _Visual Studio Code_ (VSCode) software, such as:
+This repository contains my solution to **Hello** from _Week 1_ from the **CS50** course. I've made slight modifications to ensure it works in the real _Visual Studio Code_ (VSCode) software, such as:
 
 - Renaming `#include <cs50.h>` to `#include "cs50.h"`
 
